@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("котики.jpg");
+}
+.page {
+    max-width: 1900px;
+    min-height: 100vh;
+    background-color: lightgreen;
+    margin: 0 auto;
+    padding:50px 200px;
+}
+
+.hh1 {
+    margin: 20px;
+    padding:20px;
+    font-size: 35px;
+    color:pink;
+}
+.pp1 {
+    margin:20px;
+    padding:20px;
+    font-size:20px;
+    color:lightpink;
+}
+.pp2 {
+    margin:20px;
+    padding:20px;
+    color:pink;
+}
